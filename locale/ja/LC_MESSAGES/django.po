@@ -1,0 +1,1 @@
+/mnt/hgfs/C-drive/django.po
